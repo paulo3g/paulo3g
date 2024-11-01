@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Paulo César 👋 <br> Sou um desenvolvedor front-end em constante evolução :rocket:
+  Paulo Mariano 👋 <br> Sou um desenvolvedor Full Stack em constante evolução :rocket:
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/devpaulocesar/">
+  <a href="https://www.linkedin.com/in/paulo-cesar-mariano/">
     <img
       title="Siga no Linkedin"
       src="https://img.shields.io/badge/-devpaulocesar-blue?style=flat-square&logo=Linkedin&logoColor=white"
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-paulocesar1" alt="DevPauloCesar" />
+  <img src="https://komarev.com/ghpvc/?username=paulo3g" alt="DevPauloCesar" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 <h2> Sobre: </h2>
 
-#Sou um desenvolvedor front-end, apaixonado por programação, além de entusiasta das melhorias tecnologias de desenvolvimento web e mobile. Na busca por aprendizados, conquistas, pesquisas e compartilhamentos do conhecimento adquirido.
+#Sou um desenvolvedor full stackc, apaixonado por programação, além de entusiasta das melhorias tecnologias de desenvolvimento web e mobile. Na busca por aprendizados, conquistas, pesquisas e compartilhamentos do conhecimento adquirido.
 
 - [x] Formado em Gestão da tecnologia da informação pela *UNIFG*.
 - [x] Sou um entusiasta do desenvolvimento e da tecnologia, atualmente com foco em stacks que envolvem o **front-end**.
@@ -90,12 +90,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="30" height="30">&nbsp;
   <!-- Webpack Icon -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="30" height="30">&nbsp;
-</p>
-
-**Estou estudando:**
-<p align="left">
-  <!-- Typescript Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="30" height="30">&nbsp;
-  <!-- Next.js Icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30">&nbsp;
 </p>
